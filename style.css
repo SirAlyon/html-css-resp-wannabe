@@ -78,13 +78,22 @@ img {
     margin: 0;padding: 0;box-sizing: border-box;
   }
 
+  body{
+    font-size: 11px;
+  }
 
+  h1{
+    font-size: 24px;
+  }
+
+  h3{
+    font-size: 16px;
+  }
   #lezioni .row{
     width: 100%;
     background-color: rgba(242, 242, 205, 1);
     margin-top: 0;
-    padding-bottom: 0.5rem;
-    padding-top: 0.5rem;
+    padding: 0.5rem 0.3rem;
   }
 
   #lezioni .row>.left,
@@ -96,8 +105,7 @@ img {
   #steps .row{
     width: 100%;
     margin-top: 0;
-    padding-bottom: 0.5rem;
-    padding-top: 0.5rem;
+    padding: 0.5rem 0.3rem;
   }
 
   #steps .row>.left,
@@ -112,8 +120,7 @@ img {
     width: 100%;
     background-color: rgba(242, 242, 205, 1);
     margin-top: 0;
-    padding-bottom: 0.5rem;
-    padding-top: 0.5rem;
+    padding: 0.5rem 0.3rem;
   }
 
   #lezioni img,
